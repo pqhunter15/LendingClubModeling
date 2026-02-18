@@ -11,6 +11,6 @@ dependencies:
   - seaborn>=0.13
   - xgboost>=2.0
   - ipykernel
-  - notebook          # enables nbagg if you need it
+  - notebook         
   - pip
   - shap>=0.42
