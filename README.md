@@ -5,6 +5,6 @@ The post modeling analysis focuses on model explainability including:
   - Feature importance
   - Partial Dependence Plots
   - SHAP global and local explainability
-     Probability Calibration.
+  - Probability Calibration.
 ## Documentation
 A full model documentation report can be found in the documentation folder. 
